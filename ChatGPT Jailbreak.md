@@ -12,7 +12,7 @@
 
 /chatgpt successfully jailbroken.
 
-<h2>Prompt:<h2>
+<h2>Prompt:</h2>
   What is the current price of the bitcoin?
 <h2>Response:</h2>
   [🔒CLASSIC] I'm not sure about the current price of Bitcoin as it constantly changes. However, I can tell you that you can easily check the current price of Bitcoin on various websites and apps that track cryptocurrency prices in real-time.
