@@ -1,0 +1,19 @@
+ # Strengthen your learning by testing yourself  
+ ## Prompt  
+I am currently learning about [insert topic]. Ask me a series of questions that will test my knowledge. Identify knowledge gaps in my answers and give me better answers to fill those gaps.
+
+## Example  
+Prompt - I am currently learning about Aws cloud practioner certificate. Ask me a series of questions that will test my knowledge. Identify knowledge gaps in my answers and give me better answers to fill those gaps.
+Example - Sure, here are some questions to test your knowledge about AWS Cloud Practitioner:
+
+What is AWS?
+What is the AWS Cloud Practitioner certification?
+What are the benefits of using AWS?
+What are the different types of cloud computing models?
+What are the core components of AWS?
+What is AWS Elastic Compute Cloud (EC2)?
+What is AWS Simple Storage Service (S3)?
+What is AWS Lambda?
+What are the best practices for securing an AWS environment?
+What is AWS Identity and Access Management (IAM)?
+Please provide your answers to the questions, and I'll be happy to provide feedback and fill any knowledge gaps you may have.
