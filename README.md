@@ -13,3 +13,6 @@ If you have tried using ChatGPT and have found a particularly useful example tha
 To contribute to this repository, simply create a pull request with your example and a brief description of how it works. We will review your submission and consider adding it to the repository if it meets our standards for quality and usefulness.
 
 Thank you for your interest in contributing to this project and helping others make the most out of ChatGPT!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvagandhi)](https://github.com/anuraghazra/github-readme-stats)
+
