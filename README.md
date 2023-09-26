@@ -15,6 +15,6 @@ To contribute to this repository, simply create a pull request with your example
 Thank you for your interest in contributing to this project and helping others make the most out of ChatGPT!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvagandhi)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=apurvagandhi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChatGPT-examples-guides)](https://github.com/anuraghazra/github-readme-stats)
 
 
